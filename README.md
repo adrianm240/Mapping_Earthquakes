@@ -4,7 +4,7 @@ The purpose of this project was to create a webpage using javascript, HTML, and 
 
 ## Project Overview
 ### All Earthquakes From the Past Seven Days:
-![](static/images/wholemap.png)
+![](Earthquake_Challenge/static/images/wholemap.png)
 
 ### Only Major Earthquakes (4.5+) From the Past Seven Days:
-![](static/images/majorQuakes.png)
+![](Earthquake_Challenge/static/images/majorQuakes.png)
